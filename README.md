@@ -33,9 +33,13 @@ Random Number Generation
 Basic Game Logic
 📁 Project Structure
 📦 Rock-Paper-Scissors/
+
 ├── index.html
+
 ├── styles.css
+
 ├── game.js
+
 └── images/
     ├── rock.png
     ├── paper.png
