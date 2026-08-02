@@ -31,17 +31,14 @@ Variables
 Conditional Statements (if / else)
 Random Number Generation
 Basic Game Logic
-📁 Project Structure
+````📁 Project Structure
 📦 Rock-Paper-Scissors/
-
 ├── index.html
-
 ├── styles.css
-
 ├── game.js
-
 └── images/
     ├── rock.png
     ├── paper.png
     └── scissor.png
-    /
+````
+
